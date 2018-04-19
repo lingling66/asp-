@@ -1,0 +1,36 @@
+TABLE {
+	FONT-SIZE: 12px; LINE-HEIGHT: 1.5; FONT-STYLE: normal
+}
+A {
+	FONT-SIZE: 12px; TEXT-TRANSFORM: none; COLOR: #ff6600; LINE-HEIGHT: 1.5; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.a1 {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 1.5; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.table1 {
+	FONT-SIZE: 14px
+}
+.input1 {
+	BORDER-RIGHT: #666699 1px dotted; BORDER-TOP: #666699 1px dotted; FONT-SIZE: 12px; BORDER-LEFT: #666699 1px dotted; LINE-HEIGHT: normal; BORDER-BOTTOM: #666699 1px dotted; FONT-STYLE: normal
+}
+
+
+A:link {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #3366cc; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #6699ff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff4400; TEXT-DECORATION: none
+}
+.table2
+{
+	background-color:#ffffcc
+	
+}
+	
+
